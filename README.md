@@ -12,9 +12,11 @@ Ojo: el analyzer para español utiliza un restful API de http://mymemory.transla
 
 # Licencia
 - Este programa es una versión adaptada de:
+
 Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for
 Sentiment Analysis of Social Media Text. Eighth International Conference on
 Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
 
 - The MIT License (MIT)
+
 Copyright (c) 2016 C.J. Hutto (Ver LICENSE.txt)
