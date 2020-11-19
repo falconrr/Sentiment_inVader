@@ -2,9 +2,11 @@
 vaderSentiment analyzer modificado para ejecutar reseñas en inglés y español.
 
 ## Uso
-$ python3 vaderSentiment_Eng.py data/reviewEng.txt \n
-$ python3 vaderSentiment_Span.py data/reviewESP2.txt \n
-$ python3 vaderSentiment_SpanList.py < data/adjetivos3.txt \n
+$ python3 vaderSentiment_Eng.py data/reviewEng.txt
+
+$ python3 vaderSentiment_Span.py data/reviewESP2.txt
+
+$ python3 vaderSentiment_SpanList.py < data/adjetivos3.txt
 
 Ojo: el analyzer para español utiliza un restful API de http://mymemory.translated.net. El traductor está limitado a 1000 palabras por día. Después de esto, el programa dejará de funcionar apropiadamente. Se podría utilizar el API de Google pero tiene precio después del tiempo de prueba.
 
